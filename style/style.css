@@ -83,7 +83,7 @@ body{
     width: 35rem;
     padding: 10px;
     border-radius: 9px;
-    background: #e7e8ec;
+    background: #e2e2e2;
 }
 .dashboard{
     float: left;
@@ -490,7 +490,7 @@ iframe{
     cursor: default;
 }
 .sideapps:hover{
-    background-color: rgba( 255, 255, 255, 0.2 );
+    background-color: rgba( 230, 230, 230, 0.2 );
 }
 #phone{
     display: none;
@@ -1377,5 +1377,5 @@ iframe{
 .text{
     font-size: 10px;
     font-weight: 500;
-    color: #606060;
+    color: #000000;
 }
